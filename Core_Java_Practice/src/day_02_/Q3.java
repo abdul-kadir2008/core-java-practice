@@ -9,7 +9,6 @@ public static void main()
 	Scanner sc =new Scanner(System.in);
 	System.out.println("Enter Your Number :");
 int n=sc.nextInt();
-
 System.out.println(countDigits(n));
 	}
  static int countDigits(int num)
