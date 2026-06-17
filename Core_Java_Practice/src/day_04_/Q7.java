@@ -6,8 +6,8 @@ public class Q7 {
 public static void main(String[] args) {
 	Scanner sc= new Scanner(System.in);
 	System.out.println("Enter Your Number : ");
-	int n =sc.nextInt();
-	isPerfect(n);
+	int num =sc.nextInt();
+	isPerfect(num);
 }
  static void isPerfect(int n) 
 {
