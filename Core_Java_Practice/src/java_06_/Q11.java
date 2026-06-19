@@ -23,6 +23,6 @@ static void countFrequency(double n, int digit) {
 		n/=10;
 		
 	}
-	System.out.println("Digit "+digit+" appears "+count+" times");
+	System.out.println("Digit "+digit+" appears "+count +" times");
 }
 }
